@@ -5,7 +5,7 @@ extends EditorPlugin
 
 var importer
 
-var autowirer = load("res://addons/blender_autowire/script_autowirer.gd").new()
+var autowirer = load("res://addons/godot-gltf-autowire/script_autowirer.gd").new()
 
 
 func _enter_tree() -> void:
