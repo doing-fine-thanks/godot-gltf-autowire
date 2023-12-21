@@ -20,8 +20,7 @@ shortcuts for importing meshes as Rigidbodies and Colliders, the script will be 
 For this example, we will just use Blender, given that the curcumstance you'd be editing raw `glTF` .json values is pretty slim (though please correct me if I am 
 wrong).
 
-[![autowire gdscript](https://www.youtube.com/watch?v=-3YDapynmbk/0.jpg)](https://www.youtube.com/watch?v=-3YDapynmbk) "autowire gdscript")
-
+https://www.youtube.com/watch?v=-3YDapynmbk
 
 Note that the keyword and searchpath for the plugin can be set in `addons/godot-gltf-autowire/script_autowirer.gd`. At some point this will be moved into project settings. 
 
